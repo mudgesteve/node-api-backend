@@ -1,5 +1,6 @@
 @echo off
 cls
+cls
 echo [101;93m STYLES [0m
 echo ^<ESC^>[0m [0mReset[0m
 echo ^<ESC^>[1m [1mBold[0m
