@@ -1,6 +1,6 @@
 # Excercise 2 HomeWork and end-points
 
-> Please review --- a couple of snippets that i created are in here let me know what you think of them
+>Please review --- a couple of snippets that i created are in here let me know what you think of them
 > Note to instructor -- I left TODOs regarding the timer thing for token life and know to change for dev
 > Please note just completed homework number 3
 > Read ahead about the two api we will be working with and----
